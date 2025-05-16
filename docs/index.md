@@ -20,5 +20,3 @@ FallenCity heeft verschillende discord servers die zijn goed gekeurd door het st
 |FallenCity Cardealer| Cardealer discord server van FallenCity | [Invite](https://discord.gg/2dBuAd3Gkj) |
 |FallenCity FlightSchool| Flightschool discord server van FallenCity | [Invite](https://discord.gg/5K2qx89Mq5) |
 |FallenCity Gangs| Gangs discord server van FallenCity | [Invite](https://discord.gg/km6NAbGMkY) |
-
-FallenCity
